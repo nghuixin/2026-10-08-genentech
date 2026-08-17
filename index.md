@@ -367,29 +367,7 @@ address.
     
     <div class="row">
         <dt class="col-sm-2 col-md-2 py-2 px-3 bg-body-light text-body-secondary fw-bold">Workshop FAQ</dt>
-        <dd class="col py-2 px-3 mx-0 mb-0">
-            <p id="workshops-faq">
-            For answers to frequently asked questions about workshops,
-            refer to <a href="https://carpentries.org/workshops/workshops-faq">the Carpentries Workshop FAQ</a>.
-            </p>    
-        </dd>
-    </div>
-
-    <!-- <div class="row">
-        <dt class="col-sm-2 col-md-2 py-2 px-3 bg-body-light text-body-secondary fw-bold">Accessibility</dt>
-        <dd class="col py-2 px-3 mx-0 mb-0">
         
-        </dd>
-    </div> -->
-
-    </dl>
-  </div>
-</div>
-
-
-{% comment %}
-WHO CAN ATTEND?
-
 If you would like to specify who can attend the workshop, you can use the section below.
 
 Move the 'endcomment' tag above the beginning of the following <p> tag to make this section visible.
