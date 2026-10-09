@@ -359,7 +359,7 @@ change the value of `carpentry` to `incubator`.
 </div>
 {% else %}
 <p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
-<p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeEDjYYwltIKC673wLyfMwRyiXNwXyNC7-dY2qSiHSLOXJnWQ/viewform?usp=heade">Post-workshop Survey</a></p>
 {% endif %}
 
 <hr/>
