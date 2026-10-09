@@ -11,7 +11,7 @@
 #  lc: Library Carpentry
 #  hpcc: High Performance Computing Carpentry
 #  cp: Carpentries (to use for instructor training for instance)
-#  incubator: for workshops teaching a lesson in The Carpentries Incubator
+incubator: for workshops teaching a lesson in The Carpentries Incubator
 # Note that for regular workshops, you should use:
 #  https://github.com/carpentries/workshop-template
 # and for instructor training events you should use:
